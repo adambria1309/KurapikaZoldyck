@@ -1,20 +1,16 @@
 ### Hi there 👋
 
-<!--
-**KurapikaZoldyck/KurapikaZoldyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**KurapikaZoldyck/KurapikaZoldyck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+-->
+- 🔭 I’m currently studied on Jakarta and Padang
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on Data Science / Machine Learning
+- 🤔 I’m looking for help with Data Science / Machine Learning
+- 💬 Ask me about Python, Data Science, Machine Learning
+<!--
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kurapika
-If u have something to ask, please create issue on this repository and i'll immediately will be answer it
-But, before you ask it, please make sure that you read all of it
-Thank You
